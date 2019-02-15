@@ -1,3 +1,4 @@
+'In a selection range determine if there are any empty cells.
 Sub CellLoop()
 
 countEmptyCells = 0
